@@ -21,9 +21,6 @@ I love solving real-world problems through code, exploring backend systems, and 
 ## Featured Projects
 - **[Socail Media Auditor](https://github.com/AwasthiAnshika/Social-Media-Auditor.git)** – Platform for students to interact with industry experts via video calls and live chat. Built with MERN stack, Redux, Tailwind CSS, and WebRTC.
 
-## GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yourlinkedin)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:your-email@example.com)
