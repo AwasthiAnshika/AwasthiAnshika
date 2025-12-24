@@ -6,8 +6,8 @@ I love solving real-world problems through code, exploring backend systems, and 
 
 - 🔭 Currently building **full-stack web apps** using MERN stack
 - 🌱 Exploring **Python, FastAPI**, and **system design**
-- 💻 Solved 800+ DSA problems across platforms like LeetCode and Codeforces
-- ⚡ Fun fact: I enjoy photography and tech gadgets in my free time
+- 💻 Solved DSA problems across platforms like LeetCode and Codeforces
+- ⚡ Fun fact: I enjoy Acting and tech solutions in my free time
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
