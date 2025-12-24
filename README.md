@@ -19,9 +19,7 @@ I love solving real-world problems through code, exploring backend systems, and 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
 ## Featured Projects
-- **[Mentor Connect](https://github.com/yourusername/mentor-connect)** – Platform for students to interact with industry experts via video calls and live chat. Built with MERN stack, Redux, Tailwind CSS, and WebRTC.
-- **[Space Explorer](https://github.com/yourusername/space-explorer)** – A space news and quiz platform for enthusiasts. Features live chat, quiz app, and space launch updates.
-- **[Network Traffic Manager](https://github.com/yourusername/network-traffic-manager)** – Backend system to manage network traffic with multiple deployed services for scalability.
+- **[Socail Media Auditor](https://github.com/AwasthiAnshika/Social-Media-Auditor.git)** – Platform for students to interact with industry experts via video calls and live chat. Built with MERN stack, Redux, Tailwind CSS, and WebRTC.
 
 ## GitHub Stats
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
